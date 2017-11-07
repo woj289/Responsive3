@@ -1,0 +1,102 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Cabin', sans-serif;
+  background-color: rgb(201, 201, 201);
+  color:rgb(75, 79, 90);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	margin: 0 0 10px 0;
+}
+h4 , h5 , p {
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+}
+
+.content-one .up-one{
+  margin-top: 80px;
+  width: 60% ;
+  background-color: rgb(236, 236, 236);
+  height: auto;
+  padding-bottom: 4%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+.content-one .up-one .photo-one{
+  padding: 0;
+  margin-left: 3%;
+  margin-top: 4%;
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  float: left;
+  background-image: url(2.jpg);
+  max-width: 100%;
+}
+.content-one .up-one .name-one{
+  float: left;
+  margin-left: 5%;
+  width: 60%;
+  padding-top: 3%;
+}
+.p1
+{
+  float: left;
+  width: 20%;
+  padding-top: 30px;
+}
+.tekst{
+  padding-bottom: -5%;
+}
+.education{
+  margin-top: -25px;
+  margin-left: 16%;
+  width: 180px;
+  color: white;
+  padding: 16px;
+  text-align: center;
+  background-color: rgb(75, 79, 90);
+  position: relative;
+  font-size: 120%;
+}
+.down-one{
+  background-color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -31px;
+  margin-left: 15%;
+  margin-right: 15%;
+  float: left;
+  padding: 3%;
+}
+.education-content1{
+   width: 30%;
+   float: left;
+   padding-left: 10%;
+   padding-right: 10%;
+   float: left;
+   padding-top: 5%;
+}
+.education-content2{
+   width: 30%;
+   float: left;
+   padding-left: 10%;
+   padding-right: 10%;
+   padding-top: 5%;
+}
+.box
+{
+  height: 50px;
+  background-color: rgb(236, 236, 236);
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}

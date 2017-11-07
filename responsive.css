@@ -1,0 +1,95 @@
+
+.content-one .up-one{
+  width: 100% ;
+}
+.down-one{
+  margin-left: auto;
+  margin-right: auto;
+}
+.box
+{
+	width: 100%;
+}
+
+@media screen and (max-width: 800px){
+.education{
+	margin-top: -2px;
+	margin-left: 0%;
+	padding: 10px;
+	font-size: 80%;
+}
+
+.down-one{
+  margin-top: -35px;
+}
+}
+
+@media screen and (max-width: 700px) {
+  p{
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: -5%;
+  }
+.content-one .up-one{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	margin-top: 10%;
+}
+.content-one .up-one .photo-one{
+	background-image: url(2.jpg);
+	margin-left: 35%;
+}
+.content-one .up-one .name-one{
+	width: 100%;
+	margin: 0%;
+	text-align: justify;
+  padding-bottom: 25px;
+
+}
+.content-one .up-one .name-one .tekst{
+	margin : 8%;
+}
+
+.down-one
+{
+  width: 100%;
+}
+.p1{
+  clear: both;
+  width: 100%;
+  margin-left: 35%;
+}
+.box
+{
+	width: 100%;
+}
+}
+@media screen and (max-width: 500px) {
+.education-content1{
+	width: 80%;
+	padding-left: 10%;
+ 	padding-right: 10%;
+	padding-top: 15%;
+}
+.education-content2{
+	width: 80%;
+ 	padding : 10% 10% 10% 5%;
+	padding-left: 10%;
+}
+.p1{
+  margin-left: 25%;
+}
+
+}
+
+@media screen and (max-width: 350px) {
+.content-one .up-one .photo-one{
+	background-image: url(2.jpg);
+	margin-left: 20%;
+}
+.p1{
+  margin-left: 15%;
+}
+
+}
